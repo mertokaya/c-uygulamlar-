@@ -1,0 +1,14 @@
+c:\users\lab-05 pc-10\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\lab-05 pc-10\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\lab-05 pc-10\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+c:\users\lab-05 pc-10\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+F:\programlama temelleri\performans uzay gezisi\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+F:\programlama temelleri\performans uzay gezisi\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+D:\programlama temelleri\performans uzay gezisi\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+D:\programlama temelleri\performans uzay gezisi\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+F:\programlama temelleri\performans uzay gezisi\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+F:\programlama temelleri\performans uzay gezisi\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+F:\programlama temelleri\performans uzay gezisi\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csprojAssemblyReference.cache
+F:\programlama temelleri\performans uzay gezisi\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+E:\10.sınıf işlenen dersler\programlama temelleri\performans uzay gezisi\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+E:\10.sınıf işlenen dersler\programlama temelleri\performans uzay gezisi\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,14 @@
+C:\Users\Gr\Desktop\KODLAMA\Sayı tahmin etme\Sayı tahmin etme\bin\Debug\Sayı tahmin etme.exe.config
+C:\Users\Gr\Desktop\KODLAMA\Sayı tahmin etme\Sayı tahmin etme\bin\Debug\Sayı tahmin etme.exe
+C:\Users\Gr\Desktop\KODLAMA\Sayı tahmin etme\Sayı tahmin etme\bin\Debug\Sayı tahmin etme.pdb
+C:\Users\Gr\Desktop\KODLAMA\Sayı tahmin etme\Sayı tahmin etme\obj\Debug\Sayı tahmin etme.csprojAssemblyReference.cache
+C:\Users\Gr\Desktop\KODLAMA\Sayı tahmin etme\Sayı tahmin etme\obj\Debug\Sayı tahmin etme.csproj.CoreCompileInputs.cache
+C:\Users\Gr\Desktop\KODLAMA\Sayı tahmin etme\Sayı tahmin etme\obj\Debug\Sayı tahmin etme.exe
+C:\Users\Gr\Desktop\KODLAMA\Sayı tahmin etme\Sayı tahmin etme\obj\Debug\Sayı tahmin etme.pdb
+C:\Users\Skynet\Desktop\Benim yaptığım uygulamalar dosyası\10.sınıf işlenen dersler\programlama temelleri\Sayı tahmin etme\Sayı tahmin etme\bin\Debug\Sayı tahmin etme.exe.config
+C:\Users\Skynet\Desktop\Benim yaptığım uygulamalar dosyası\10.sınıf işlenen dersler\programlama temelleri\Sayı tahmin etme\Sayı tahmin etme\bin\Debug\Sayı tahmin etme.exe
+C:\Users\Skynet\Desktop\Benim yaptığım uygulamalar dosyası\10.sınıf işlenen dersler\programlama temelleri\Sayı tahmin etme\Sayı tahmin etme\bin\Debug\Sayı tahmin etme.pdb
+C:\Users\Skynet\Desktop\Benim yaptığım uygulamalar dosyası\10.sınıf işlenen dersler\programlama temelleri\Sayı tahmin etme\Sayı tahmin etme\obj\Debug\Sayı tahmin etme.csprojAssemblyReference.cache
+C:\Users\Skynet\Desktop\Benim yaptığım uygulamalar dosyası\10.sınıf işlenen dersler\programlama temelleri\Sayı tahmin etme\Sayı tahmin etme\obj\Debug\Sayı tahmin etme.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\Desktop\Benim yaptığım uygulamalar dosyası\10.sınıf işlenen dersler\programlama temelleri\Sayı tahmin etme\Sayı tahmin etme\obj\Debug\Sayı tahmin etme.exe
+C:\Users\Skynet\Desktop\Benim yaptığım uygulamalar dosyası\10.sınıf işlenen dersler\programlama temelleri\Sayı tahmin etme\Sayı tahmin etme\obj\Debug\Sayı tahmin etme.pdb
