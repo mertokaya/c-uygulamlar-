@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+
+    <style>
+        .h1{
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 31px;
+            font-style: italic;
+        }
+        .p{
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 31px;
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <h2 class="p1"> HTML-CSS </h2>
+
+    <p class="p1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima delectus magni asperiores esse officiis officia
+        assumenda soluta sunt amet voluptatem, voluptate aut veniam? Inventore aliquid, ab animi vero exercitationem
+        illum?</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur officia numquam iusto voluptate, maxime,
+        laboriosam, expedita fugit dolores nihil ipsa deserunt in facilis explicabo hic. Incidunt est enim accusantium
+        dolorum.</p>
+
+    <p class="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, adipisci odio aliquid impedit minus
+        doloribus similique possimus sed aliquam qui quisquam reprehenderit provident corrupti. Consequatur hic iure
+        perferendis facere perspiciatis.</p>
+
+    <b>MERHABA CEMAL</b> <br>
+    <i>MERHABA CEMAL</i> <br>
+    <u>MERHABA CEMAL</u> <br>
+    
+</body>
+
+</html>

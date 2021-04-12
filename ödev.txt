@@ -1,0 +1,28 @@
+ürünler
+1-tablolarý oluþturdum
+2-CREATE TABLE ürünler (id int not null PRIMARY KEY,ad varchar(10) not null,açýklama varchar(40),fiyat int not null,primary key (id);
+
+müþteriler
+1-tablolarý oluþturdum
+2-CREATE TABLE müþteri2(id int not null PRIMARY KEY,ad varchar(10) not null,soyad varchar(10) not null,adres varchar(255),tel varchar(15)NOT null,email varchar(255),kayýttarihi date);
+
+satýþ
+1-tablolarý oluþturdum
+2-CREATE table satýþ2(id int PRIMARY KEY,adet int not null,tutar int not null,fiyat int not null,tarih date,ürünid int,müþteriid int,FOREIGN KEY (ürünid) REFERENCES ürünler2(id),FOREIGN KEY(müþteriid)REFERENCES müþteri2(id));
+
+þimdi veri ekleme kodlarý 
+
+1-INSERT INTO ürünler (ad,açýklama,fiyat,id)VALUES (RXG4000,ekran kartý alýmý,3500,1)
+2-INSERT INTO müþteri3 (id,ad,soyad,adres,tel,email,kayýttarihi)VALUES (1,"Mert" ,"Çýnar", "ÝSTANBUL-maltepe" ,05383963165,"mertokaya123@gmail.com","2020-09-12")
+3-INSERT INTO müþteri3 (id,ad,soyad,adres,tel,email,kayýttarihi)VALUES (2,"Osman" ,"Çalýþýr", "Bursa-emek" ,05365984529,"can.28osman@gmail.com","2020-09-12")
+4-INSERT INTO müþteri3 (id,ad,soyad,adres,tel,email,kayýttarihi)VALUES (3,"Yusuf" ,"Kahraman", "Ýzmir" ,05051445701,"yusufakýllýsý@gmail.com","2020-09-12")
+5-INSERT INTO ürünler (ad,açýklama,fiyat,id)VALUES (telefon alýmý,samsung telefon iþte,1400,2)
+6-INSERT INTO ürünler (ad,açýklama,fiyat,id)VALUES (riot puaný,lolde rp alýmý,25,3)
+7-INSERT INTO satýþ2(id,adet,tutar,fiyat,tarih,ürünid,müþteriid)VALUES(1,2,59,3500,"2020-09-12",1,1)
+8-INSERT INTO satýþ2(id,adet,tutar,fiyat,tarih,ürünid,müþteriid)VALUES(2,4,99,25,"2020-09-12",3,3)
+9-INSERT INTO satýþ2(id,adet,tutar,fiyat,tarih,ürünid,müþteriid)VALUES(3,1,29,1400,"2020-09-12",2,2)
+
+
+
+
+

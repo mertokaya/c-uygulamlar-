@@ -1,0 +1,57 @@
+﻿<html>
+    <head>      
+        
+    </head>
+
+    <body>
+
+        <h1> Merhaba </h1>
+        <h2> Merhaba </h2>
+        <h3> Merhaba </h3>
+        <h6> Merhaba </h6>
+
+        Merhaba <br>
+        Merhaba <br>
+
+        <p>Lorem ipsum dolor <b> amet consectetur adipisicing elit</b>. Officiis animi delectus consequuntur impedit? Sit veritatis mollitia facilis reprehenderit saepe placeat, optio nisi <u> fuga accusamus, voluptatem </u> similique suscipit consequatur laborum <i>quidem eius quis eum, sequi hic.</i>  Assumenda atque nihil placeat, quidem commodi ducimus voluptatum! Vitae ducimus beatae delectus repellendus consectetur! Natus.</p>
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis animi delectus consequuntur impedit? Sit veritatis mollitia facilis reprehenderit saepe placeat, optio nisi fuga accusamus, voluptatem similique suscipit consequatur laborum quidem eius quis eum, sequi hic. Assumenda atque nihil placeat, quidem commodi ducimus voluptatum! Vitae ducimus beatae delectus repellendus consectetur! Natus.</p>
+        
+        <font face="Comic Sans MS" size="3" color="blue">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis animi delectus consequuntur impedit? Sit veritatis mollitia facilis reprehenderit saepe placeat, optio nisi fuga accusamus, voluptatem similique suscipit consequatur laborum quidem eius quis eum, sequi hic. Assumenda atque nihil placeat, quidem commodi ducimus voluptatum! Vitae ducimus beatae delectus repellendus consectetur! Natus.</p>
+        </font>
+        
+        <a href="http://www.google.com.tr">GOOGLE</a>   <br>
+
+        <hr>
+        <hr color="red" size="7">
+
+        <form action="">
+
+            <label> Ad Soyad : </label>
+            <input type="text">             <br>
+
+            <label> Adres: </label>
+            <input type="text">             <br>
+
+            <label> Şifre: </label>
+            <input type="password">             <br>
+
+            Mezuniyet Durumu : <br>
+
+            <input type="radio" name="rd">   İlkokul          <br>
+            <input type="radio" name="rd">   Ortaokul          <br>
+            <input type="radio" name="rd">   Lise          <br>
+            <input type="radio" name="rd">   Üniversite          <br>
+            Hobileriniz : <br>
+            <input type="checkbox" name="rdx">   Kitap          <br>
+            <input type="checkbox" name="rdy">   Sİnema          <br>
+            <input type="checkbox" name="rdt">   Gezi          <br>
+          
+
+            <button> Tıkla! </button>
+
+        </form>
+
+    </body>
+</html>

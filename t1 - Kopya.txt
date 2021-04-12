@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        h2{
+            font-family: 'Impact';
+            font-size: 45px;
+            font-style: italic;
+        } 
+
+        .p1{
+            font-family: 'Verdana';
+            font-size: 25px;
+            color: blue;
+        }       
+
+    </style>
+</head>
+<body>
+
+    <h2 class="p1"> HTML - CSS </h2>
+    
+   
+    <p class="p1"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse saepe culpa unde nihil perferendis soluta, suscipit vitae aliquam dolorum fugit, quaerat, sit labore. Iste dolorum, <b> repellendus dolores </b> odit delectus sequi dolore hic totam quae eveniet corporis quisquam nesciunt maiores commodi nobis modi aspernatur eaque consequatur nisi. Corporis laborum ullam sed.</p>
+   
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse saepe culpa unde nihil perferendis soluta, suscipit vitae aliquam dolorum fugit, quaerat, sit labore. Iste dolorum, <b> repellendus dolores </b> odit delectus sequi dolore hic totam quae eveniet corporis quisquam nesciunt maiores commodi nobis modi aspernatur eaque consequatur nisi. Corporis laborum ullam sed.</p>
+   
+    <p class="p1"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse saepe culpa unde nihil perferendis soluta, suscipit vitae aliquam dolorum fugit, quaerat, sit labore. Iste dolorum, <b> repellendus dolores </b> odit delectus sequi dolore hic totam quae eveniet corporis quisquam nesciunt maiores commodi nobis modi aspernatur eaque consequatur nisi. Corporis laborum ullam sed.</p>
+
+
+    <b> Merhaba </b>    <br>
+    <i> Merhaba </i>    <br>
+    <u> Merhaba </u>    <br>
+
+
+</body>
+</html>

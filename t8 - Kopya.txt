@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <style>
+
+        .container{
+         
+            margin: auto;
+            border: 1px solid black;
+            width: 500px;
+            height: 400px;
+        }
+
+        #d1, .d2, .d3, .d4{
+            border: 1px solid black;
+            width: 75px;
+            height: 75px;
+            background-color: burlywood;
+        }
+
+        #d1{
+            position: fixed;
+            top: 20px;
+            right: 20px;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <div id="d1"> Div 1 </div>
+        <div class="d2"> Div 2 </div>
+        <div class="d3"> Div 3 </div>
+        <div class="d4"> Div 4 </div>
+    </div>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, doloribus voluptatem praesentium maxime quidem sapiente vitae corporis atque? Modi aut doloribus voluptatem harum facere obcaecati nulla! Facere natus veritatis minima officia assumenda odio dignissimos provident incidunt cumque ad asperiores laboriosam nesciunt ullam voluptate, iusto perspiciatis reprehenderit nam commodi suscipit omnis?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, doloribus voluptatem praesentium maxime quidem sapiente vitae corporis atque? Modi aut doloribus voluptatem harum facere obcaecati nulla! Facere natus veritatis minima officia assumenda odio dignissimos provident incidunt cumque ad asperiores laboriosam nesciunt ullam voluptate, iusto perspiciatis reprehenderit nam commodi suscipit omnis?</p>
+</body>
+</html>

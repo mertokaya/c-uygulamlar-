@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+
+    <style>
+        .d1{
+            width: 960px;
+            height: 120px;
+            background-color: burlywood;
+        }
+        .d2{
+            width: 260px;
+            height: 350px;
+            background-color: darkblue;
+            float:left;
+        }
+        .d3{
+            margin-left: 260px;
+        }
+        .d4{
+            width: 960px;
+            height:80px;
+            background-color: yellow;
+            clear: both;
+        }
+        .d5{
+            width: 700px;
+            height: 200px;
+            background-color: darkcyan;
+        }
+        .d6{
+            width:700px;
+            height:150px;
+            background-color: darkorchid;
+        }
+        .container{
+            width: 760px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="d1">DÝV 1</div>
+        <div class="d2">DÝV 2</div>
+        <div class="d3">
+            <div class="d5">DÝV 5</div>
+            <div class="d6">DÝV 6</div>
+        </div>
+        <div class="d4">DÝV 4</div>
+    </div>
+</body>
+</html>

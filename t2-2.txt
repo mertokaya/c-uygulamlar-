@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+
+    <style>
+        .p1{
+            color: sienna;
+        }
+    </style>
+</head>
+
+<body>
+    <h2 class="p1"> HTML-CSS </h2>
+
+    <p class="p1" style="color: navajowhite;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea repudiandae
+        laboriosam odio officiis temporibus explicabo esse quis id, optio, sunt fugit corrupti, vero rerum vel
+        voluptate! Nostrum necessitatibus laudantium odit.</p>
+
+    <p id="p2" style="color: navy;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit dolorum dolorem totam
+        delectus ullam officia, sequi recusandae saepe nisi pariatur laborum? Quod, doloremque. Modi obcaecati, itaque
+        hic exercitationem molestiae nulla!</p>
+
+    <p style="color: salmon;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores optio suscipit nisi
+        et laborum! Quibusdam consequatur itaque quia? Saepe eveniet itaque, dolorem dolor debitis doloribus veritatis
+        unde dolores esse rem.</p>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, iure adipisci velit numquam doloribus
+        exercitationem alias eaque ullam obcaecati aliquam odio perferendis qui sed cum? Sint magni quisquam maxime
+        corrupti.</p>
+</body>
+
+</html>

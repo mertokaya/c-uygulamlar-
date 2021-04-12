@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <style>
+
+        h2{
+            color: rgb(221, 17, 17);
+        }
+
+        .prgf1{
+            font-size: 10px;
+        }
+
+        #prgf2{
+            background-color: red;
+            color: white;
+        }
+        
+
+    </style>
+
+</head>
+<body>
+
+    W3SCHOOLS.COM
+
+    <h2 class="prgf1">CSS</h2>
+
+    <p class="prgf1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis rem facere saepe eius. Mollitia sint quod saepe, minima laborum voluptas totam ipsum perspiciatis quos ea veritatis ad temporibus nihil quis debitis illum commodi sunt recusandae consequatur iste accusantium. Quaerat dicta possimus nostrum eligendi ipsum. Facere, animi eos. Nulla, omnis natus.</p>
+
+    <p id="prgf2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis rem facere saepe eius. Mollitia sint quod saepe, minima laborum voluptas totam ipsum perspiciatis quos ea veritatis ad temporibus nihil quis debitis illum commodi sunt recusandae consequatur iste accusantium. Quaerat dicta possimus nostrum eligendi ipsum. Facere, animi eos. Nulla, omnis natus.</p>
+
+    <p class="prgf1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis rem facere saepe eius. Mollitia sint quod saepe, minima laborum voluptas totam ipsum perspiciatis quos ea veritatis ad temporibus nihil quis debitis illum commodi sunt recusandae consequatur iste accusantium. Quaerat dicta possimus nostrum eligendi ipsum. Facere, animi eos. Nulla, omnis natus.</p>
+
+    <p style="color: royalblue; background-color: black;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis rem facere saepe eius. Mollitia sint quod saepe, minima laborum voluptas totam ipsum perspiciatis quos ea veritatis ad temporibus nihil quis debitis illum commodi sunt recusandae consequatur iste accusantium. Quaerat dicta possimus nostrum eligendi ipsum. Facere, animi eos. Nulla, omnis natus.</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis rem facere saepe eius. Mollitia sint quod saepe, minima laborum voluptas totam ipsum perspiciatis quos ea veritatis ad temporibus nihil quis debitis illum commodi sunt recusandae consequatur iste accusantium. Quaerat dicta possimus nostrum eligendi ipsum. Facere, animi eos. Nulla, omnis natus.</p>
+    
+</body>
+</html>

@@ -1,0 +1,17 @@
+tablo oluþturma kodlarý
+CREATE TABLE tbl2(ad varchar(10)not null,soyad varchar(10)not null,takmaisim varchar(10));
+CREATE table tbl3(ad varchar(10)not null,soyad varchar(10),takmaisim varchar(10)not null);
+
+isim ekleme
+1-INSERT INTO tbl2(ad,soyad,takmaisim)VALUES("yusuf","kahraman","ýq düþüren")
+2-INSERT INTO tbl2(ad,soyad,takmaisim)VALUES("osman","çalýþýr","tombik")
+3-INSERT INTO tbl2(ad,soyad,takmaisim)VALUES("rýdvan","akyýl","adamým rýdvannnnnn")
+4-INSERT INTO tbl2(ad,soyad,takmaisim)VALUES("tuðra","çýnar","zibidi")
+
+tbl3 isim ekleme
+1-INSERT INTO tbl3(ad,soyad,takmaisim)VALUES("mert","çýnar","akýllý zeki")
+2-INSERT INTO tbl3(ad,soyad,takmaisim)VALUES("meltem","müminoðlu","echo")
+3-INSERT INTO tbl3(ad,soyad,takmaisim)VALUES("eren","tüten","yolda tüten diðer lakabý xewnez")
+
+iki tabloyu kesiþtirme(join komudu)
+SELECT  tbl2.ad,tbl3.ad from tbl2 INNER JOIN tbl3 on tbl2.ad =tbl3.ad;

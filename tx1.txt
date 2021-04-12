@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+
+<body>
+    <h1>MERHABA</h1>
+    <h2>MERHABA</h2>
+    <h3>MERHABA</h3>
+    <h6>MERHABA</h6>
+
+    MERHABA <br>
+    MERHABA <br>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum molestiae voluptas quod magnam ut ex illum
+        consequuntur, dolor error, obcaecati at porro magni repudiandae! Explicabo vero laboriosam temporibus
+        accusantium magnam.</p>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio deleniti eos porro labore numquam recusandae, hic
+        voluptatem voluptatum. Nostrum enim veniam tempora doloremque vel, consequuntur illo ducimus ullam! Accusantium,
+        eius!</p>
+
+    <font face="Comic Sans MS" size="3" color="pink">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat neque adipisci mollitia unde dolor, a ad
+            optio id totam nesciunt. Numquam harum amet porro quam quia distinctio possimus maiores consectetur.</p>
+    </font>
+
+    <a href="http://www.google.com.tr">GOOGLE</a> <br>
+
+    <hr>
+    <hr color="red" size="7">
+
+    <form action="">
+        <label>Ad Soyad :</label>
+        <input type="text"> <br>
+
+        <label>Adres :</label>
+        <input type="text"> <br>
+
+        <label>Þifre :</label>
+        <input type="password"> <br>
+
+        Mezuniyet Durumu : <br>
+
+        <input type="radio" name="rd">Ýlkokul <br>
+        <input type="radio" name="rd">Ortaokul <br>
+        <input type="radio" name="rd">Lise <br>
+        <input type="radio" name="rd">Üniversite <br>
+
+        Hobileriniz : <br>
+
+        <input type="checkbox" name="rdx">Müzik <br>
+        <input type="checkbox" name="rdy">Yazýlým <br>
+        <input type="checkbox" name="rdz">Opera <br>
+
+        <button> TIKLA! </button>
+    </form>
+</body>
+
+</html>

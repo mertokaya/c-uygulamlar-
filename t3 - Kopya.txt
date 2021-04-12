@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <center>
+
+    <table border="1" width="200" height="200">
+
+        <tr>
+            <td colspan="4"> A </td>
+
+        </tr>
+
+        <tr height="150">
+            <td width="30%"> A </td>
+            <td colspan="3"> B </td>
+        </tr>
+
+        <tr>
+            <td colspan="4"> A </td>
+        </tr>
+
+    </table>
+
+    </center>
+</body>
+</html>

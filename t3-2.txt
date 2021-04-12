@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <center>
+        <table border="2" width="300" height="300">
+            <tr>
+                <td colspan="3">A</td>
+            </tr>
+            <tr>
+                <td width="45%">A</td>
+                <td colspan="6">B</td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
