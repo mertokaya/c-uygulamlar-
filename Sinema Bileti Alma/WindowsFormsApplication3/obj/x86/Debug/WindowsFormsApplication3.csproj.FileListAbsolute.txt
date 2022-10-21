@@ -1,0 +1,14 @@
+D:\Nesne Tabanlı Programlama\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Nesne Tabanlı Programlama\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Nesne Tabanlı Programlama\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\Nesne Tabanlı Programlama\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Nesne Tabanlı Programlama\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Nesne Tabanlı Programlama\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\Nesne Tabanlı Programlama\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Sinema Bileti Alma\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Sinema Bileti Alma\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Sinema Bileti Alma\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Sinema Bileti Alma\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Sinema Bileti Alma\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Sinema Bileti Alma\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Sinema Bileti Alma\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+c:\users\lab4\documents\visual studio 2010\Projects\Stok uygulaması\Stok uygulaması\bin\Debug\Stok uygulaması.exe
+c:\users\lab4\documents\visual studio 2010\Projects\Stok uygulaması\Stok uygulaması\bin\Debug\Stok uygulaması.pdb
+c:\users\lab4\documents\visual studio 2010\Projects\Stok uygulaması\Stok uygulaması\obj\x86\Debug\Stok_uygulaması.Form1.resources
+c:\users\lab4\documents\visual studio 2010\Projects\Stok uygulaması\Stok uygulaması\obj\x86\Debug\Stok_uygulaması.Properties.Resources.resources
+c:\users\lab4\documents\visual studio 2010\Projects\Stok uygulaması\Stok uygulaması\obj\x86\Debug\Stok uygulaması.csproj.GenerateResource.Cache
+c:\users\lab4\documents\visual studio 2010\Projects\Stok uygulaması\Stok uygulaması\obj\x86\Debug\Stok uygulaması.exe
+c:\users\lab4\documents\visual studio 2010\Projects\Stok uygulaması\Stok uygulaması\obj\x86\Debug\Stok uygulaması.pdb
+c:\users\lab4\documents\visual studio 2010\Projects\Stok uygulaması\Stok uygulaması\obj\x86\Debug\Stok_uygulaması.Giriş.resources

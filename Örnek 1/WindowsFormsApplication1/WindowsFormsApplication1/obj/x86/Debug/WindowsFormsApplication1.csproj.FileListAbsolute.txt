@@ -1,0 +1,34 @@
+c:\users\lab7\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\lab7\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lab7\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\lab7\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\lab7\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database21.mdb
+c:\users\lab7\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lab7\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lab7\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\lab7\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database21.mdb
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Nesne Tabanlı Programlama\VeriTabanı\Formdan Db ye Aktarma\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database21.mdb
+E:\11.sınıf işlenen dersler\VeriTabanı\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\11.sınıf işlenen dersler\VeriTabanı\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\11.sınıf işlenen dersler\VeriTabanı\Örnek 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
