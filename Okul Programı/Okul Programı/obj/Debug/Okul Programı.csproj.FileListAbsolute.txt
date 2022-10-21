@@ -1,0 +1,30 @@
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\bin\Debug\Okul Programı.exe.config
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\bin\Debug\Okul Programı.exe
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\bin\Debug\Okul Programı.pdb
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\obj\Debug\Okul Programı.csprojAssemblyReference.cache
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Form1.resources
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Form2.resources
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Form3.resources
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Properties.Resources.resources
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\obj\Debug\Okul Programı.csproj.GenerateResource.cache
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\obj\Debug\Okul Programı.exe
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\obj\Debug\Okul Programı.pdb
+D:\dosyalar\visual studio form ders çalışmaları\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Form4.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\bin\Debug\Okul Programı.exe.config
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\obj\Debug\Okul Programı.exe
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\obj\Debug\Okul Programı.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\obj\Debug\Okul Programı.csprojResolveAssemblyReference.cache
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Form1.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Form2.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Form3.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Form4.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\obj\Debug\Okul_Programı.Properties.Resources.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\obj\Debug\Okul Programı.csproj.GenerateResource.Cache
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\bin\Debug\Okul Programı.exe
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\bin\Debug\Okul Programı.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\bin\Debug\mscorlib.dll
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\bin\Debug\normidna.nlp
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\bin\Debug\normnfc.nlp
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\bin\Debug\normnfd.nlp
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\bin\Debug\normnfkc.nlp
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Okul Programı\Okul Programı\bin\Debug\normnfkd.nlp

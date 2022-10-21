@@ -1,0 +1,28 @@
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\foxxafa\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\WindowsFormsApp2.exe.config
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\obj\Debug\WindowsFormsApp2.exe
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\obj\Debug\WindowsFormsApp2.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\WindowsFormsApp2.exe
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\WindowsFormsApp2.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\mscorlib.dll
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\normidna.nlp
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\normnfc.nlp
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\normnfd.nlp
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\normnfkc.nlp
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\normnfkd.nlp
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+E:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\bin\Debug\WindowsFormsApp2.exe.config
+E:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\obj\Debug\WindowsFormsApp2.exe
+E:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kütüphane uygulaması kollay yapım\obj\Debug\WindowsFormsApp2.pdb
