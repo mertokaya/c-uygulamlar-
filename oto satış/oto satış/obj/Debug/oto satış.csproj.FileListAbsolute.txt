@@ -1,0 +1,10 @@
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\bin\Debug\oto satış.exe.config
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\bin\Debug\oto satış.exe
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\bin\Debug\oto satış.pdb
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\obj\Debug\oto satış.csprojAssemblyReference.cache
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\obj\Debug\oto_satış.Form1.resources
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\obj\Debug\oto_satış.Form2.resources
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\obj\Debug\oto_satış.Properties.Resources.resources
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\obj\Debug\oto satış.csproj.GenerateResource.cache
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\obj\Debug\oto satış.exe
+D:\dosyalar\visual studio form ders çalışmaları\oto satış\oto satış\obj\Debug\oto satış.pdb

@@ -1,0 +1,11 @@
+c:\users\lab2-pc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\lab2-pc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lab2-pc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\lab2-pc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lab2-pc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lab2-pc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\lab2-pc\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\DERSLERİM\11.SINIF\kronometre\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\DERSLERİM\11.SINIF\kronometre\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kronometre\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\kronometre\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
