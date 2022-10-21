@@ -1,0 +1,9 @@
+c:\users\lab2-pc\documents\visual studio 2010\Projects\PASSAPORT\PASSAPORT\bin\Debug\PASSAPORT.exe
+c:\users\lab2-pc\documents\visual studio 2010\Projects\PASSAPORT\PASSAPORT\bin\Debug\PASSAPORT.pdb
+c:\users\lab2-pc\documents\visual studio 2010\Projects\PASSAPORT\PASSAPORT\obj\x86\Debug\PASSAPORT.Ekleme.resources
+c:\users\lab2-pc\documents\visual studio 2010\Projects\PASSAPORT\PASSAPORT\obj\x86\Debug\PASSAPORT.Form2.resources
+c:\users\lab2-pc\documents\visual studio 2010\Projects\PASSAPORT\PASSAPORT\obj\x86\Debug\PASSAPORT.Properties.Resources.resources
+c:\users\lab2-pc\documents\visual studio 2010\Projects\PASSAPORT\PASSAPORT\obj\x86\Debug\PASSAPORT.csproj.GenerateResource.Cache
+c:\users\lab2-pc\documents\visual studio 2010\Projects\PASSAPORT\PASSAPORT\obj\x86\Debug\PASSAPORT.exe
+c:\users\lab2-pc\documents\visual studio 2010\Projects\PASSAPORT\PASSAPORT\obj\x86\Debug\PASSAPORT.pdb
+C:\Users\lab2-pc\Documents\Visual Studio 2010\Projects\PASSAPORT\PASSAPORT\obj\x86\Debug\PASSAPORT.csprojResolveAssemblyReference.cache

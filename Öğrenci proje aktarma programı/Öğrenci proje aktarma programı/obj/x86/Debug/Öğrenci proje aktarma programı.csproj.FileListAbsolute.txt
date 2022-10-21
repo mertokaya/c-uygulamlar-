@@ -1,0 +1,16 @@
+c:\users\lab4\documents\visual studio 2010\Projects\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\bin\Debug\Öğrenci proje aktarma programı.exe
+c:\users\lab4\documents\visual studio 2010\Projects\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\bin\Debug\Öğrenci proje aktarma programı.pdb
+c:\users\lab4\documents\visual studio 2010\Projects\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci_proje_aktarma_programı.AnaForm.resources
+c:\users\lab4\documents\visual studio 2010\Projects\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci_proje_aktarma_programı.Properties.Resources.resources
+c:\users\lab4\documents\visual studio 2010\Projects\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci_proje_aktarma_programı.Öğrenci_Ekle.resources
+c:\users\lab4\documents\visual studio 2010\Projects\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci proje aktarma programı.csproj.GenerateResource.Cache
+c:\users\lab4\documents\visual studio 2010\Projects\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci proje aktarma programı.exe
+c:\users\lab4\documents\visual studio 2010\Projects\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci proje aktarma programı.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci proje aktarma programı.exe
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci proje aktarma programı.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\bin\Debug\Öğrenci proje aktarma programı.exe
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\bin\Debug\Öğrenci proje aktarma programı.pdb
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci_proje_aktarma_programı.AnaForm.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci_proje_aktarma_programı.Properties.Resources.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci_proje_aktarma_programı.Öğrenci_Ekle.resources
+D:\11.sınıf işlenen dersler\Nesne Tabanlı Programlama\Öğrenci proje aktarma programı\Öğrenci proje aktarma programı\obj\x86\Debug\Öğrenci proje aktarma programı.csproj.GenerateResource.Cache
